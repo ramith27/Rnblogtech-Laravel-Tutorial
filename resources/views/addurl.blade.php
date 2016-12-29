@@ -22,7 +22,6 @@
 
           <div class="panel-body">
         <form class="" action="submit" method="post">
-
           <input type="hidden" name="_token" value="{{ csrf_token() }}">
           <div class="form-group">
             <label for="Url">URL address</label>
